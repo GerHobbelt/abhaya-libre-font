@@ -1,0 +1,37 @@
+/*
+ *  Abhaya Libre Fonts <https://github.com/mooniak/abhaya-libre-font>
+/* Webfont paths
+ * -------------------------- */
+
+@font-face {
+    font-family:"Abhaya Libre";
+    src:url("AbhayaLibre-Regular.woff2") format("woff2"),url("AbhayaLibre-Regular.woff") format("woff"),url("AbhayaLibre-Regular.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+
+@font-face {
+    font-family:"Abhaya Libre Medium";
+    src:url("AbhayaLibre-Medium.woff2") format("woff2"),url("AbhayaLibre-Medium.woff") format("woff"),url("AbhayaLibre-Medium.otf") format("opentype");
+    font-style:normal;font-weight:500;
+}
+
+@font-face {
+    font-family:"Abhaya Libre SemiBold";
+    src:url("AbhayaLibre-SemiBold.woff2") format("woff2"),url("AbhayaLibre-SemiBold.woff") format("woff"),url("AbhayaLibre-SemiBold.otf") format("opentype");
+    font-style:normal;
+    font-weight:600;
+}
+
+@font-face {
+    font-family:"Abhaya Libre Bold";
+    src:url("AbhayaLibre-Bold.woff2") format("woff2"),url("AbhayaLibre-Bold.woff") format("woff"),url("AbhayaLibre-Bold.otf") format("opentype");
+    font-style:normal;
+    font-weight:700;
+}
+
+@font-face {
+    font-family:"Abhaya Libre ExtraBold";
+    src:url("AbhayaLibre-ExtraBold.woff2") format("woff2"),url("AbhayaLibre-ExtraBold.woff") format("woff"),url("AbhayaLibre-ExtraBold.otf") format("opentype");
+    font-style:normal;
+    font-weight:800;
+}
