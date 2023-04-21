@@ -16,11 +16,11 @@ The Latin characters, that match the aesthetics of ‘Abhaya Libre Sinhala’, w
 
 ![](https://raw.githubusercontent.com/mooniak/abhaya-libre-font/master/documentation/3.png)
 
-The name ‘Abhaya’ comes after the King Abhaya (474 BCE to 454 BCE) who reigned Sri Lanka from the ancient kingdom of Upatissa Nuwara. The ‘Abhaya Libre’ is the Unicode compliant, complete libre version of the most popular Sinhala typeface on Earth.
+The name ‘Abhaya’ comes after the King Abhaya (474 BCE to 454 BCE) who reigned Sri Lanka from the ancient kingdom of Upatissa Nuwara.
 
 ![Da forms](https://raw.githubusercontent.com/mooniak/abhaya-libre-font/master/documentation/2.png)
 
-The project was funded by Google, being led by Mooniak, a collaborative collective of designers based in Colombo Sri Lanka with the cooperation of Mr. Pushpananda Ekanayake, the designer  of the FM Abhaya font and Sol Matas as the Latin designer.
+The initial development of this was funded by Google Fonts. Project is led by Mooniak, a collaborative collective of designers based in Colombo Sri Lanka with the cooperation of Pushpananda Ekanayake, the designer of the FM Abhaya font and Sol Matas as the Latin designer.
 
 See the discussions on [Googel Fonts mailing list](https://groups.google.com/d/topic/googlefonts-discuss/ET5kBjYxDiY/discussion).
 
